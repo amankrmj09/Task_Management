@@ -1,0 +1,6 @@
+[submodule "Task_Management_SpringBoot"]
+	path = Task_Management_SpringBoot
+	url = https://github.com/amankrmj09/Task_Management_SpringBoot.git
+[submodule "task_management_reactjs"]
+	path = task_management_reactjs
+	url = https://github.com/amankrmj09/task_management_reactjs.git
