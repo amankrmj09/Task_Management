@@ -19,13 +19,16 @@ A full-stack application designed to help teams and individuals organize project
 Both the frontend and backend of this project follow the same principles of modularity, scalability, and clean architecture, ensuring a reliable and maintainable codebase.
 
 ## Contents
+
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Architecture Overview](#architecture-overview)
 - [Folder Structures](#folder-structures)
 - [API Overview](#api-overview-short)
+- [Screenshots](#screenshots)
 
 ## Features
+
 - **Full-Stack Task Management**: End-to-end solution for managing projects and tasks.
 - **Role-Based Access Control**: Different permissions for Admins, Project Owners, and Members.
 - **Interactive UI**: Dynamic dashboards and responsive frontend components.
@@ -33,12 +36,15 @@ Both the frontend and backend of this project follow the same principles of modu
 - **Containerized**: Fully Docker-ready for both frontend and backend.
 
 ## Tech Stack
+
 ### Backend
+
 - **Java 25+** & **Spring Boot 3.x**
 - **Spring Security** (JWT Authentication)
 - **PostgreSQL**
 
 ### Frontend
+
 - **React 18** & **Vite**
 - **React Router** for routing
 - **Redux** for state management
@@ -56,6 +62,7 @@ Both applications can be run locally for development or containerized using Dock
 ## Folder Structures
 
 ### Backend (Spring Boot)
+
 ```text
 src/
 ├── main/             # Contains all application source code
@@ -74,6 +81,7 @@ src/
 ```
 
 ### Frontend (ReactJS)
+
 ```text
 src/                  # Main source code folder
 ├── app/              # Global app setup (e.g., Redux store configuration)
@@ -105,3 +113,61 @@ The backend exposes a structured RESTful API under the base path `/api`. Below i
 - **Dashboard** (`/api/dashboard`): Retrieves aggregated statistics and personalized overview data for users and admins.
 
 For more detailed information about specific endpoint payloads, queries, and required roles, please check the [Backend README](./Task_Management_SpringBoot/README.md).
+
+## Screenshots
+
+### Authentication
+
+<div align="center">
+<img src="./screenshots/Auth_Login.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/Auth_Register_Account.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/Auth_Reset_Password.png" width="650" style="margin-bottom: 40px;" />
+</div>
+
+### Dashboard
+
+<div align="center">
+<img src="./screenshots/Dashboard_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/dashboard_02.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/Dashboard_03.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/dashboard_04.png" width="650" style="margin-bottom: 40px;" />
+</div>
+
+### Projects & Team Management
+
+<div align="center">
+<img src="./screenshots/Projects_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/Projects_02.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/Projects_Create_project.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/Projects_Details_page_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/Projects_Details_page_Add_member_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/Projects_Details_page_member_added_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/Projects_details_page_task_added.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/projects_details_page_update_project.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/manage_team.png" width="650" style="margin-bottom: 40px;" />
+</div>
+
+### Tasks
+
+<div align="center">
+<img src="./screenshots/Tasks_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/Tasks_02.png" width="650" style="margin-bottom: 40px;" />
+</div>
+
+### Contributor View
+
+<div align="center">
+<img src="./screenshots/contributor_dashboard_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/contributor_dashboard_02.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/contributor_request_to_join_project_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/contributor_request_to_join_project_02.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/contributor_tasks_00.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/contributor_tasks_01.png" width="650" style="margin-bottom: 40px;" />
+</div>
+
+### Settings
+
+<div align="center">
+<img src="./screenshots/Settings_page_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/Settings_page_02.png" width="650" style="margin-bottom: 40px;" />
+</div>
