@@ -128,55 +128,44 @@ For more detailed information about specific endpoint payloads, queries, and req
 ### Authentication
 
 <div align="center">
-<img src="./screenshots/Auth_Login.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/Auth_Register_Account.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/Auth_Reset_Password.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/00_Auth_Login.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/00_Auth_Register.png" width="650" style="margin-bottom: 40px;" />
 </div>
 
 ### Dashboard
 
 <div align="center">
-<img src="./screenshots/Dashboard_01.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/dashboard_02.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/Dashboard_03.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/dashboard_04.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/01_Dashboard_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/01_Dashboard_02.png" width="650" style="margin-bottom: 40px;" />
 </div>
 
-### Projects & Team Management
+### Projects
 
 <div align="center">
-<img src="./screenshots/Projects_01.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/Projects_02.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/Projects_Create_project.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/Projects_Details_page_01.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/Projects_Details_page_Add_member_01.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/Projects_Details_page_member_added_01.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/Projects_details_page_task_added.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/projects_details_page_update_project.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/manage_team.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/02_Projects_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/02_Projects_02.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/02_Projects_Details_Page_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/02_Projects_Details_Page_02.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/02_Projects_Request_to_join_project.png" width="650" style="margin-bottom: 40px;" />
 </div>
 
 ### Tasks
 
 <div align="center">
-<img src="./screenshots/Tasks_01.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/Tasks_02.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/03_Tasks_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/03_Tasks_02.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/03_Tasks_Delete_Dialog_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/03_Tasks_Details_Page_01.png" width="650" style="margin-bottom: 40px;" />
 </div>
 
-### Contributor View
+### Team
 
 <div align="center">
-<img src="./screenshots/contributor_dashboard_01.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/contributor_dashboard_02.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/contributor_request_to_join_project_01.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/contributor_request_to_join_project_02.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/contributor_tasks_00.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/contributor_tasks_01.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/04_Team_01.png" width="650" style="margin-bottom: 40px;" />
 </div>
 
 ### Settings
 
 <div align="center">
-<img src="./screenshots/Settings_page_01.png" width="650" style="margin-bottom: 40px;" />
-<img src="./screenshots/Settings_page_02.png" width="650" style="margin-bottom: 40px;" />
+<img src="./screenshots/05_Settings_01.png" width="650" style="margin-bottom: 40px;" />
 </div>
