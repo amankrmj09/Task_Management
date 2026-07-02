@@ -12,7 +12,16 @@ A full-stack application designed to help teams and individuals organize project
 
 <br />
 
-### **[🚀 View Live Demo](https://task-management-reactjs-99o7.onrender.com/)**
+### **[🚀 View Live Demo](https://taskmanager.blubug.me/)**
+
+**Demo Admin Credentials:**
+- **Email:** `admin@example.com`
+- **Password:** `AdminPass123!`
+> *You can also create your own user account to test the platform.*
+
+**Deployment Details:**
+- Deployed using **Dokploy** on a **DigitalOcean** VPS.
+- DNS managed by **Cloudflare**.
 
 </div>
 
